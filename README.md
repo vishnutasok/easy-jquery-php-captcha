@@ -32,12 +32,3 @@ http://jquery4u.com/validation/easy-jquery-php-captcha/
 
 =============================================================
 
-**Credits**
-
-jQuery4u
-
-Sam Deering
-
-99points
-
-=============================================================
